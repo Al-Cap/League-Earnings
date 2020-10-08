@@ -29,7 +29,7 @@ Modeling           : <a href=https://github.com/Al-Cap/League-Earnings/blob/mast
 ## Data
 
 
-![tour-rel.png](https://github.com/Al-Cap/Popular-Esport-Game/blob/master/figures/tour-rel_bar.png)
+![](https://github.com/Al-Cap/League-Earnings/blob/.png)
 
 ## Modeling
 
