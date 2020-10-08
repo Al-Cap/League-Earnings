@@ -57,7 +57,7 @@ The graphes are show that the least amount of tournaments have the higher concen
  
 ## Future
 
-
+Simialr methods can be done to determine how to enter Esport leagues. A further look into leagues would be easier with th use of which games are the most profitable, showcased, and have a high player base. Other factors can be added to narrow the search. Depends on what is trying to be found will determine the methods and variables used to find which league provides the most benefit.
 
 ## Project Info
 <pre>
