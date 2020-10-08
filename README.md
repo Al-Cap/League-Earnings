@@ -14,8 +14,8 @@
 
 ## Repository Navigation
 <pre>
-Code               : <a href=https://github.com/Al-Cap/League-Earnings/blob/master/Notebook/Project_1.ipynb>Main Source</a>
-Modeling           : <a href=https://github.com/Al-Cap/League-Earnings/blob/master/Notebook/Untitled.ipynb>Modified Source</a>
+Code               : <a href=https://github.com/Al-Cap/League-Earnings/blob/main/code/all_leagues.ipynb>Main Source</a>
+Modeling           : <a href=https://github.com/Al-Cap/League-Earnings/blob/main/code/graphing.ipynb>Modified Source</a>
 </pre>
 
 ## ReadME Navigation
