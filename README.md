@@ -2,7 +2,7 @@
 
 
 <p align="center">
-   <img src=https://github.com/Al-Cap/League-Earnings/blob/main/legends.jpg />
+   <img src=https://github.com/Al-Cap/League-Earnings/blob/main/image/legends.jpg/>
 <div align="center">
    <figcaption></figcaption>
 </div>
