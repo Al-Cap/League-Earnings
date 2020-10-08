@@ -14,8 +14,8 @@
 
 ## Repository Navigation
 <pre>
-Code               : <a href=https://github.com/Al-Cap/League-Earnings/blob/main/code/all_leagues.ipynb>Main Source</a>
-Modeling           : <a href=https://github.com/Al-Cap/League-Earnings/blob/main/code/graphing.ipynb>Modified Source</a>
+Code               : <a href=https://github.com/Al-Cap/League-Earnings/blob/main/code/all_leauges.ipynb>Main Source</a>
+Modeling           : <a href=https://github.com/Al-Cap/League-Earnings/tree/main/code/graphing.ipynb>Modified Source</a>
 </pre>
 
 ## ReadME Navigation
@@ -29,7 +29,7 @@ Modeling           : <a href=https://github.com/Al-Cap/League-Earnings/blob/main
 ## Data
 
 
-![](https://github.com/Al-Cap/League-Earnings/blob/.png)
+![](https://github.com/Al-Cap/League-Earnings/blob/main/code/attribute_histogram_plots.png)
 
 ## Modeling
 
