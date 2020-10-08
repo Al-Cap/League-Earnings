@@ -1,4 +1,4 @@
-# League-Earnings
+# League Earnings in Esports
 
 
 <p align="center">
