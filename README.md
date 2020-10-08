@@ -46,7 +46,7 @@ Earnings to players:
 
 ![earn-ply.png](https://github.com/Al-Cap/League-Earnings/blob/main/image/earn-ply.png)
 
-Earnings to aamount of tournaments:
+Earnings to amount of tournaments:
 
 ![earn-tour.png](https://github.com/Al-Cap/League-Earnings/blob/main/image/earn-tour.png)
 
