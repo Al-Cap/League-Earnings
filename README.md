@@ -17,12 +17,13 @@ However, popularity for certain games are higher than others does not mean a hig
 <pre>
 Code               : <a href=https://github.com/Al-Cap/League-Earnings/blob/main/code/all_leauges.ipynb>Main Source</a>
 Modeling           : <a href=https://github.com/Al-Cap/League-Earnings/tree/main/code/graphing.ipynb>Modified Source</a>
+Data               : <a href=https://github.com/Al-Cap/League-Earnings/blob/main/data/leagues.csv>Data Source</a>
 </pre>
 
 ## ReadME Navigation
 
 [Data](https://github.com/Al-Cap/League-Earnings#data) - 
-[Modeling](https://github.com/Al-Cap/League-Earnings#modeling) - 
+[Graphs](https://github.com/Al-Cap/League-Earnings#modeling) - 
 [Results](https://github.com/Al-Cap/League-Earnings-Game#results) - 
 [Future](https://github.com/Al-Cap/League-Earnings-Game#future) - 
 [Project Info](https://github.com/Al-Cap/League-Earnings#project-info)
@@ -35,15 +36,19 @@ The compiled data in to a table can be seen [here](https://github.com/Al-Cap/Lea
 
 ## Modeling
 
-The data was broken down to compare the amount of tournaments to earnings and players.
+The data was broken down to compare the amount of tournaments to players, earnings to players, and earnings to amount of tournaments.
 
-Amount of tournaments to earnings:
+Amount of tournaments to players:
 
 ![tour-ply.png](https://github.com/Al-Cap/League-Earnings/blob/main/image/tour-ply.png)
 
+Earnings to players:
 
+![earn-ply.png](https://github.com/Al-Cap/League-Earnings/blob/main/image/earn-ply.png)
 
+Earnings to aamount of tournaments:
 
+![earn-tour.png](https://github.com/Al-Cap/League-Earnings/blob/main/image/earn-tour.png)
 
 
 ## Results
