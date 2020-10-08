@@ -34,6 +34,7 @@ The data was used from [https://www.esportsearnings.com/leagues](https://www.esp
 
 The compiled data in to a table can be seen [here](https://github.com/Al-Cap/League-Earnings/blob/main/data/leagues.csv).
 
+
 ## Modeling
 
 The data was broken down to compare the amount of tournaments to players, earnings to players, and earnings to amount of tournaments.
