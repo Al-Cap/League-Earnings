@@ -2,7 +2,7 @@
 
 
 <p align="center">
-   <img src= />
+   <img src=https://github.com/Al-Cap/League-Earnings/blob/main/legends.jpg />
 <div align="center">
    <figcaption></figcaption>
 </div>
@@ -30,7 +30,7 @@ Data               : <a href=https://github.com/Al-Cap/League-Earnings/blob/main
 
 ## Data
 
-The data was used from [video game site](https://www.esportsearnings.com/leagues). The raw data consists of the kind of tournaments, earnings, players, amount of tournaments and events.
+The data was used from [https://www.esportsearnings.com/leagues](https://www.esportsearnings.com/leagues). The raw data consists of the kind of tournaments, earnings, players, amount of tournaments and events.
 
 The compiled data in to a table can be seen [here](https://github.com/Al-Cap/League-Earnings/blob/main/data/leagues.csv).
 
@@ -53,7 +53,7 @@ Earnings to aamount of tournaments:
 
 ## Results
 
-
+The graphes are show that the least amount of tournaments have the higher concentration of players and earnings. This shows that the amount of tournaments needed to attract players or amount of earnings available are more determined on the game and not the amount of players invovled or the amount of tournaments are hosted. 
  
 ## Future
 
