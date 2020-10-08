@@ -31,7 +31,7 @@ Modeling           : <a href=https://github.com/Al-Cap/League-Earnings/tree/main
 
 The data was used from [video game site](https://www.esportsearnings.com/leagues). The raw data consists of the kind of tournaments, earnings, players, amount of tournaments and events.
 
-![Overall](https://github.com/Al-Cap/League-Earnings/blob/main/code/attribute_histogram_plots.png)
+![Overall.png](https://github.com/Al-Cap/League-Earnings/blob/main/code/attribute_histogram_plots.png)
 
 ## Modeling
 
