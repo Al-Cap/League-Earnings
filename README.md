@@ -10,12 +10,13 @@
 
 ## Overview
 
-
+Esport leauges have come more popular in recent years. Since more leagues are are created also means that earnings or prizes for the compititions would go up as well.
+However, popularity for certain games are higher than others does not mean a higher prize. The uptake of of leagues spreads all across the globe. Many the large countries and a some small ones are competing in these leagues. Determining which league is important to consider. Whether it is for you are not might depend on the earnings, or the amount of tournaments done.
 
 ## Repository Navigation
 <pre>
-Code               : <a href=https://github.com/Al-Cap/League-Earnings/blob/master/Notebook/Project_1.ipynb>Main Source</a>
-Modeling           : <a href=https://github.com/Al-Cap/League-Earnings/blob/master/Notebook/Untitled.ipynb>Modified Source</a>
+Code               : <a href=https://github.com/Al-Cap/League-Earnings/blob/main/code/all_leauges.ipynb>Main Source</a>
+Modeling           : <a href=https://github.com/Al-Cap/League-Earnings/tree/main/code/graphing.ipynb>Modified Source</a>
 </pre>
 
 ## ReadME Navigation
@@ -28,11 +29,17 @@ Modeling           : <a href=https://github.com/Al-Cap/League-Earnings/blob/mast
 
 ## Data
 
+The data was used from [video game site](https://www.esportsearnings.com/leagues). The raw data consists of the kind of tournaments, earnings, players, amount of tournaments and events.
 
-![](https://github.com/Al-Cap/League-Earnings/blob/.png)
+The compiled data in to a table can be seen [here](https://github.com/Al-Cap/League-Earnings/blob/main/data/leagues.csv).
 
 ## Modeling
 
+The data was broken down to compare the amount of tournaments to earnings and players.
+
+Amount of tournaments to earnings:
+
+![tour-ply.png](https://github.com/Al-Cap/League-Earnings/blob/main/image/tour-ply.png)
 
 
 
