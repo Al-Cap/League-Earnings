@@ -31,10 +31,15 @@ Modeling           : <a href=https://github.com/Al-Cap/League-Earnings/tree/main
 
 The data was used from [video game site](https://www.esportsearnings.com/leagues). The raw data consists of the kind of tournaments, earnings, players, amount of tournaments and events.
 
-![attribute_histogram_plots.png](https://github.com/Al-Cap/League-Earnings/blob/main/image/attribute_histogram_plots.png)
+The compiled data in to a table can be seen [here](https://github.com/Al-Cap/League-Earnings/blob/main/data/leagues.csv).
 
 ## Modeling
 
+The data was broken down to compare the amount of tournaments to earnings and players.
+
+Amount of tournaments to earnings:
+
+![tour-ply.png](https://github.com/Al-Cap/League-Earnings/blob/main/image/tour-ply.png)
 
 
 
